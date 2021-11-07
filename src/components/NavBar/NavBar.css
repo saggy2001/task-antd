@@ -1,0 +1,20 @@
+.navbar {
+  background-color: white;
+  padding-left: 1rem;
+  width: 20%;
+}
+.navbar > .menu {
+  background-color: white;
+  color: black;
+  border: none;
+  box-shadow: none;
+}
+@media (min-width: 992px) {
+  .navbar {
+    display: none;
+  }
+}
+/* .logo {
+  height: 32px;
+  margin-left: 1rem;
+} */

@@ -1,0 +1,13 @@
+.sidebar {
+  height: 100vh;
+  min-width: 400px;
+  /* margin-right: 24px; */
+  /* background-color: firebrick; */
+  /* overflow-y: scroll; */
+}
+
+@media screen and (max-width: 992px) {
+  .sidebar {
+    display: none;
+  }
+}
